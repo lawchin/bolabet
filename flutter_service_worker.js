@@ -14,7 +14,7 @@ const RESOURCES = {
 "favicon.png": "302ac04c14db027d016d1fe74c6a80a0",
 "manifest.json": "7909dae66a9203092dc86b5a6162e79c",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "a69baf29f61822deb71415eebe018b58",
+"main.dart.js": "88abb3305e5f9b555c47e7a251260ecd",
 "version.json": "3fea9d9c7b4ca6955aa03e762e0d2e13",
 "icons/apple-touch-icon-192.png": "8cf0d5162941f467a77f023c414a1812",
 "icons/icon-maskable-512.png": "aa798e6d780ff109da17c3a98d5f2619",
@@ -28,8 +28,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "python-worker.js": "b961f261b9ad85e06369e83fd2e33bb7",
-"index.html": "23c96877653fbdbd659ec88b5073dd92",
-"/": "23c96877653fbdbd659ec88b5073dd92"
+"index.html": "98d79adf630857d4daa2b59cd897de10",
+"/": "98d79adf630857d4daa2b59cd897de10"
 };
 
 // The application shell files that are downloaded before a service worker can
